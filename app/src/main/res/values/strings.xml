@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News Data</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="error">error</string>
+    <string name="please_wait">please wait</string>
+
+    <string name="internet_connection">please check internet connection</string>
+
+    <string name="internet_connectioned">internet connected</string>
+
+
+</resources>
